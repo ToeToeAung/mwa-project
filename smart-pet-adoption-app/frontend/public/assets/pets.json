@@ -1,0 +1,117 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "1",
+      "name": "Bella",
+      "kind": "Dog",
+      "breed": "Labrador",
+      "age": 3,
+      "gender": "Female",
+      "description": "Friendly and energetic",
+      "image_path": "assets/images/pets/bella.jpg",
+      "sterilized": true
+    },
+    {
+      "_id": "2",
+      "name": "Max",
+      "kind": "Cat",
+      "breed": "Siamese",
+      "age": 2,
+      "gender": "Male",
+      "description": "Loves cuddles",
+      "image_path": "assets/images/pets/max.jpg",
+      "sterilized": false
+    },
+    {
+      "_id": "3",
+      "name": "Charlie",
+      "kind": "Bird",
+      "breed": "Parrot",
+      "age": 1,
+      "gender": "Male",
+      "description": "Talkative and social",
+      "image_path": "assets/images/pets/charlie.jpg",
+      "sterilized": false
+    },
+    {
+      "_id": "4",
+      "name": "Luna",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/luna.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "5",
+      "name": "Justin",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/justin.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "6",
+      "name": "Emily",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/emily.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "7",
+      "name": "Adele",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/adele.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "8",
+      "name": "Bum",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/bum.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "9",
+      "name": "Henry",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/henry.jpg",
+      "sterilized": true
+    },    
+    {
+      "_id": "10",
+      "name": "LaLa",
+      "kind": "Rabbit",
+      "breed": "Angora",
+      "age": 2,
+      "gender": "Female",
+      "description": "Loves to hop around and chew on carrots",
+      "image_path": "assets/images/pets/lala.jpg",
+      "sterilized": true
+    }
+
+
+  ]
+}

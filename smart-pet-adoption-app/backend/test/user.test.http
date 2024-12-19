@@ -1,0 +1,51 @@
+POST http://localhost:3000/users/signup
+Content-Type: application/json
+
+{
+"name":"Margret Ang",
+"email":"mga@miu.edu",
+"password":"ddd",
+"role":"PetSeeker",
+"address":"1000 North 4th Street Fairfield, Iowa",
+"phone":"16412332028"
+}
+
+
+
+
+###
+POST http://localhost:3000/users/login
+Content-Type: application/json
+
+{
+    "email": "aa@miu.edu",
+    "password": "123"
+}
+
+###
+POST http://localhost:3000/users/pictures
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzVjYzVkYTJlNzlhY2FlNGM3YmExMDMiLCJuYW1lIjoiR3VkcnVtIiwiZW1haWwiOiJ2aXZhdG1hQHZpdmF0bWEub3JnIiwiaWF0IjoxNzM0MTkzNTgxfQ.jVC5on5FM1v3DCGFkJBld7ya-s9zrkV04mSFyThAYkA
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW
+
+------WebKitFormBoundary7MA4YWxkTrZu0gW
+Content-Disposition: form-data; name="profile_picture"; filename="lalalamamba.jpg"
+Content-Type: image/jpeg
+
+< ./mamba.jpg
+------WebKitFormBoundary7MA4YWxkTrZu0gW--
+
+###
+
+POST http://localhost:3000/users/signup
+Content-Type: application/json
+
+{
+    "name": "Gudrum", 
+    "email": "vivatma@vivatma.org",
+    "password": "123456",
+    "role": "ShelterAdmin",
+    "address": "1407 Red road Coral Gables, Fl",
+    "phone": "945-1234567"
+}
+
+###
